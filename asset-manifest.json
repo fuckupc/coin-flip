@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/coin-flip/static/css/main.a47e8e35.chunk.css",
+    "main.js": "/coin-flip/static/js/main.7cc95b5e.chunk.js",
+    "main.js.map": "/coin-flip/static/js/main.7cc95b5e.chunk.js.map",
+    "runtime~main.js": "/coin-flip/static/js/runtime~main.83c73e8c.js",
+    "runtime~main.js.map": "/coin-flip/static/js/runtime~main.83c73e8c.js.map",
+    "static/js/2.b4f176e3.chunk.js": "/coin-flip/static/js/2.b4f176e3.chunk.js",
+    "static/js/2.b4f176e3.chunk.js.map": "/coin-flip/static/js/2.b4f176e3.chunk.js.map",
+    "index.html": "/coin-flip/index.html",
+    "precache-manifest.ac4b3748627537078a9d6e6864baf174.js": "/coin-flip/precache-manifest.ac4b3748627537078a9d6e6864baf174.js",
+    "service-worker.js": "/coin-flip/service-worker.js",
+    "static/css/main.a47e8e35.chunk.css.map": "/coin-flip/static/css/main.a47e8e35.chunk.css.map",
+    "static/media/bottom.jpg": "/coin-flip/static/media/bottom.43f803d7.jpg",
+    "static/media/top.jpg": "/coin-flip/static/media/top.99a10729.jpg"
+  }
+}
